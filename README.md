@@ -1,8 +1,6 @@
 ## Happy Birthday!!!
-
+### see it live 
 ### Wish someone special happy birthday in a special way.
-
-#### [See it Live](https://faahim.github.io/happy-birthday/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
@@ -22,7 +20,7 @@ I've created the JSON file (`customize.json`) for easy and quick customizability
 
 Please note that I've created this page in a hurry and it comes with no warranty.
 
-Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
+Feel free to [get in touch with me](jamesteddy411@gmail.com) if you need any help with it. :)
 
 
 ## Contributing
