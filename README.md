@@ -1,6 +1,6 @@
 ## Happy Birthday!!!
-### see it live 
-### Wish someone special happy birthday in a special way.
+### [see it live](https://teddyjay-04.github.io/happybirthday_navigator.com)
+### Wish someone happy birthday in a special way.
 
 #### Update: Now you can customize all the texts without modifying the code!
 
