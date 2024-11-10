@@ -1,9 +1,9 @@
 {
   "greeting": "Heyyy",
-  "name": "Awura Navigator",
+  "name": "Ruby",
   "greetingText": "I really like the name btw!",
   "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/natascha.png",
+  "imagePath": "img/ruby.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah blah ...",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "It's Captain Ted, now come back and tell me if you liked it. ",
+  "outroText": "It's Paddy, now come back and tell me if you liked it. ",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
